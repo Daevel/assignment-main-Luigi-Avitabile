@@ -14,8 +14,6 @@ gradlew.bat
 !**/src/main/**/out/
 !**/src/test/**/out/
 
-README.md
-
 ### IntelliJ IDEA ###
 .idea
 *.iws
